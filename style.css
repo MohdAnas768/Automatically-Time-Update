@@ -1,0 +1,25 @@
+body{
+ text-align: center;
+ background-color: beige;
+}
+
+.container
+{
+    align-items: center;
+    border: 2px solid orange;
+    /* padding: 200px 200px; */
+    /* margin-top: 50%; */
+    display: inline;
+    margin-top: 200px;
+}
+
+#info{
+    background-color: beige;
+    text-align: center;
+    color: black;
+    margin: 200px;
+    padding: 50px;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+
+}
